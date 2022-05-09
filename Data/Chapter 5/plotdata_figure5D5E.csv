@@ -1,0 +1,1151 @@
+"","DRUG_ID","SCREENING_SITE","DRUG_NAME","SYNONYMS","TARGET","TARGET_PATHWAY","drug_name","subtype","value"
+"1",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","High_cal",-0.157863942979818
+"2",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","MSI",-0.303195315039308
+"3",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","STAD_MSI",-0.0696020633814013
+"4",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","STAD_GS",0.0273141356253527
+"5",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","MSS_TP53neg",0.0236635153840692
+"6",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","Low_cal",0.157863942979818
+"7",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","MSS_TP53pos",0.030031033318593
+"8",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","EMT",0.224637842365518
+"9",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","STAD_EBV",-0.152426329908771
+"10",1003,"SANGER","Camptothecin","Camptothecine, (+)-Camptothecin","TOP1","DNA replication","camptothecin..GDSC2.1003.","STAD_CIN",0.0963654190748842
+"11",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","MSI",-0.0204632817978286
+"12",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","High_cal",-0.284926495531155
+"13",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","MSS_TP53neg",-0.0341025466502919
+"14",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","EMT",-0.0297072335433074
+"15",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","STAD_CIN",0.155329066222397
+"16",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","STAD_MSI",-0.16658975402912
+"17",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","STAD_GS",0.090102318958202
+"18",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","Low_cal",0.284926495531155
+"19",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","MSS_TP53pos",0.062447418504512
+"20",1004,"SANGER","Vinblastine","Velban","Microtubule destabiliser","Mitosis","vinblastine..GDSC2.1004.","STAD_EBV",-0.174518528065145
+"21",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","MSI",-0.0889069617062952
+"22",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","High_cal",-0.049884448487858
+"23",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","MSS_TP53neg",-0.331974285403647
+"24",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","EMT",0.081482725254589
+"25",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","STAD_GS",0.203709708054307
+"26",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","STAD_CIN",-0.0663217172444987
+"27",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","MSS_TP53pos",0.311838320880896
+"28",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","STAD_EBV",-0.0317768619962881
+"29",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","STAD_MSI",-0.0344029964306437
+"30",1005,"SANGER","Cisplatin","cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP","DNA crosslinker","DNA replication","cisplatin..GDSC2.1005.","Low_cal",0.049884448487858
+"31",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","MSI",-0.47094544828054
+"32",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","High_cal",-0.0858790497092273
+"33",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","MSS_TP53neg",-0.00526243946596408
+"34",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","STAD_CIN",0.209275775196905
+"35",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","EMT",0.0441451396471004
+"36",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","STAD_EBV",-0.376710867380367
+"37",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","STAD_GS",-0.186119798472894
+"38",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","MSS_TP53pos",0.307880761976372
+"39",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","STAD_MSI",0.0116948949449475
+"40",1006,"SANGER","Cytarabine","Ara-Cytidine, Arabinosyl Cytosine, U-19920","Antimetabolite","Other","cytarabine..GDSC2.1006.","Low_cal",0.0858790497092273
+"41",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","STAD_CIN",0.0366044447886298
+"42",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","STAD_GS",-0.0793285435071653
+"43",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","Low_cal",0.0515246265724966
+"44",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","EMT",-0.0652334257050134
+"45",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","MSS_TP53pos",0.031550393435611
+"46",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","MSS_TP53neg",-0.0669395676658868
+"47",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","High_cal",-0.0515246265724966
+"48",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","STAD_EBV",0.00979315336464711
+"49",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","MSI",0.10717213073596
+"50",1007,"SANGER","Docetaxel","RP-56976, Taxotere","Microtubule stabiliser","Mitosis","docetaxel..GDSC2.1007.","STAD_MSI",-0.00324192417562033
+"51",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","MSS_TP53neg",-0.0915856840170527
+"52",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","STAD_CIN",-0.378773650460141
+"53",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","MSS_TP53pos",-0.206595930071386
+"54",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","STAD_GS",0.29607861775403
+"55",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","MSI",0.42978134431677
+"56",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","STAD_EBV",0.0510619321557896
+"57",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","STAD_MSI",0.257452082852515
+"58",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","Low_cal",-0.456852560405005
+"59",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","EMT",-0.0171445302727737
+"60",1010,"SANGER","Gefitinib","ZD-1839, Iressa","EGFR","EGFR signaling","gefitinib..GDSC2.1010.","High_cal",0.456852560405005
+"61",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","STAD_GS",0.0015588366220657
+"62",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","MSS_TP53pos",-0.203613163563613
+"63",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","EMT",0.219187508934389
+"64",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","High_cal",0.377000065591421
+"65",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","MSS_TP53neg",0.308636970095561
+"66",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","STAD_CIN",0.0477245429139692
+"67",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","STAD_MSI",0.143058756354538
+"68",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","STAD_EBV",-0.490163221543377
+"69",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","Low_cal",-0.377000065591421
+"70",1011,"SANGER","Navitoclax","ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W","Apoptosis regulation","navitoclax..GDSC2.1011.","MSI",-0.247711763076633
+"71",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","EMT",-0.176691158635325
+"72",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","MSS_TP53neg",0.163205976039942
+"73",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","MSS_TP53pos",-0.19021391857418
+"74",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","Low_cal",-0.309516110057248
+"75",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","STAD_GS",-0.138281948298688
+"76",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","STAD_CIN",0.0603100177217428
+"77",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","MSI",0.249533316540052
+"78",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","High_cal",0.309516110057248
+"79",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","STAD_MSI",-0.00188247829963306
+"80",1012,"SANGER","Vorinostat","Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV","Chromatin histone acetylation","vorinostat..GDSC2.1012.","STAD_EBV",0.0181164693712613
+"81",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","EMT",-0.296301352446243
+"82",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","Low_cal",0.0521529832242421
+"83",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","High_cal",-0.0521529832242421
+"84",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","STAD_EBV",0.00348687038287908
+"85",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","MSS_TP53neg",-0.24854952736707
+"86",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","MSI",-0.0043167818290007
+"87",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","MSS_TP53pos",0.395576087619764
+"88",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","STAD_CIN",-0.0249969792408714
+"89",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","STAD_MSI",0.129598394248791
+"90",1013,"SANGER","Nilotinib","Tasigna, AMN 107","ABL","ABL signaling","nilotinib..GDSC2.1013.","STAD_GS",-0.187601593330213
+"91",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","EMT",-0.085211252327579
+"92",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","STAD_EBV",-0.0654099866746164
+"93",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","High_cal",0.137197691402134
+"94",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","MSS_TP53pos",0.406376147434755
+"95",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","MSI",-0.100012660070208
+"96",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","STAD_MSI",-0.0245249728028872
+"97",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","Low_cal",-0.137197691402134
+"98",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","STAD_CIN",0.185598283328343
+"99",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","STAD_GS",-0.329222123298073
+"100",1017,"SANGER","Olaparib","AZD2281, KU0059436,  Lynparza","PARP1, PARP2","Genome integrity","olaparib..GDSC2.1017.","MSS_TP53neg",-0.291657664389848
+"101",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","High_cal",-0.36568037800921
+"102",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","MSI",0.0640353066997971
+"103",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","STAD_EBV",0.078944660823947
+"104",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","STAD_CIN",-0.218632502311722
+"105",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","EMT",-0.0252229515746181
+"106",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","MSS_TP53pos",0.0421699139910181
+"107",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","MSS_TP53neg",-0.0767691131101375
+"108",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","Low_cal",0.36568037800921
+"109",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","STAD_MSI",0.289151202813799
+"110",1022,"SANGER","AZD7762","AZD-7762, AZD 7762","CHEK1, CHEK2","Cell cycle","AZD7762..GDSC2.1022.","STAD_GS",-0.105119129641422
+"111",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","MSS_TP53pos",-0.179650508472782
+"112",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","MSI",0.291373763438347
+"113",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","STAD_EBV",0.123121837256392
+"114",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","STAD_CIN",-0.247632374051778
+"115",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","STAD_MSI",0.124896490011063
+"116",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","MSS_TP53neg",-0.152884555758496
+"117",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","High_cal",0.360878390299758
+"118",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","EMT",0.183547807683025
+"119",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","STAD_GS",0.219129224307752
+"120",1032,"SANGER","Afatinib","BIBW2992, Tovok, Gilotrif","ERBB2, EGFR","EGFR signaling","afatinib..GDSC2.1032.","Low_cal",-0.360878390299758
+"121",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","MSS_TP53neg",-0.381344836632705
+"122",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","STAD_MSI",0.112534474167591
+"123",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","MSS_TP53pos",-0.180239188650121
+"124",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","STAD_CIN",-0.183733850504669
+"125",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","MSI",0.549154051543776
+"126",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","STAD_GS",-0.107633547341118
+"127",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","Low_cal",0.136204465193852
+"128",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","STAD_EBV",0.384707864489167
+"129",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","EMT",0.199754012399859
+"130",1036,"SANGER","PLX-4720","PLX4720, PLX 4720","BRAF","ERK MAPK signaling","PLX4720..GDSC2.1036.","High_cal",-0.136204465193852
+"131",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","MSS_TP53neg",0.168009696010316
+"132",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","STAD_EBV",0.0503373253351512
+"133",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","Low_cal",0.33462781616543
+"134",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","STAD_CIN",0.0399792124486905
+"135",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","STAD_GS",-0.476982309931053
+"136",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","EMT",0.0674670605275831
+"137",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","MSI",-0.103550682801707
+"138",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","High_cal",-0.33462781616543
+"139",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","MSS_TP53pos",-0.123971018278315
+"140",1046,"SANGER","Wee1 Inhibitor","681640, Wee1 Inhibitor","WEE1, CHEK1","Cell cycle","Wee1.Inhibitor..GDSC2.1046.","STAD_MSI",0.199623837321121
+"141",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","EMT",0.142546867082855
+"142",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","Low_cal",0.0456122283528715
+"143",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","High_cal",-0.0456122283528715
+"144",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","MSS_TP53neg",0.0282163864426537
+"145",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","STAD_EBV",-0.134879414043537
+"146",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","MSI",-0.0394037042814099
+"147",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","STAD_CIN",0.106681114308291
+"148",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","STAD_MSI",-0.32923664054522
+"149",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","STAD_GS",0.469477290525718
+"150",1048,"SANGER","Mirin","","MRE11","Genome integrity","mirin..GDSC2.1048.","MSS_TP53pos",-0.0868946864924914
+"151",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","Low_cal",0.040458701993819
+"152",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","MSI",0.102607085102194
+"153",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","STAD_CIN",0.410496649607164
+"154",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","STAD_EBV",-0.0911820145539255
+"155",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","EMT",-0.342888792296513
+"156",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","High_cal",-0.040458701993819
+"157",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","MSS_TP53pos",0.104835147210278
+"158",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","STAD_MSI",-0.371288837743262
+"159",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","STAD_GS",-0.0703154722608245
+"160",1051,"SANGER","Alisertib","MLN8237","AURKA","Mitosis","alisertib..GDSC2.1051.","MSS_TP53neg",0.0937245825515377
+"161",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","MSI",0.130529440206166
+"162",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","Low_cal",-0.247710084785608
+"163",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","High_cal",0.247710084785608
+"164",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","STAD_GS",0.194384503560152
+"165",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","EMT",-0.181513043033461
+"166",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","MSS_TP53pos",-0.0323360799623305
+"167",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","STAD_EBV",-0.241767840423994
+"168",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","STAD_CIN",0.116653794425428
+"169",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","MSS_TP53neg",0.074707835701457
+"170",1053,"SANGER","MK-2206","MK 2206, MK2206","AKT1, AKT2","PI3K/MTOR signaling","MK.2206..GDSC2.1053.","STAD_MSI",-0.151831083119662
+"171",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","MSI",0.0724661529920127
+"172",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","EMT",-0.283097847245614
+"173",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","High_cal",-0.113598059228176
+"174",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","STAD_GS",-0.255514535852587
+"175",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","STAD_EBV",-0.186931402305929
+"176",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","MSS_TP53neg",-0.305147564581874
+"177",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","STAD_CIN",0.121342074859546
+"178",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","MSS_TP53pos",0.424526313292401
+"179",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","STAD_MSI",0.0607855061615569
+"180",1054,"SANGER","Palbociclib","PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6","Cell cycle","palbociclib..GDSC2.1054.","Low_cal",0.113598059228176
+"181",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","STAD_GS",0.0933831801275733
+"182",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","STAD_EBV",-0.142277753873639
+"183",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","STAD_CIN",0.00414658683212004
+"184",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","EMT",-0.410472744900309
+"185",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","MSS_TP53pos",0.386038993847502
+"186",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","MSS_TP53neg",-0.179472786341057
+"187",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","Low_cal",-0.0108375275048116
+"188",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","MSI",0.0581639571542001
+"189",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","STAD_MSI",-0.00031671017008129
+"190",1057,"SANGER","Dactolisib","NVP-BEZ235, BEZ235","PI3K (class 1), MTORC1, MTORC2","PI3K/MTOR signaling","NVP.BEZ235..GDSC2.1057.","High_cal",0.0108375275048116
+"191",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","STAD_CIN",0.0748537279472681
+"192",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","High_cal",0.30581783182513
+"193",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","MSS_TP53pos",0.0786248719429695
+"194",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","MSI",0.0652727155997509
+"195",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","STAD_MSI",-0.141871010831692
+"196",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","EMT",-0.375801744106452
+"197",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","STAD_EBV",-0.277741803755286
+"198",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","STAD_GS",0.291536622142309
+"199",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","Low_cal",-0.30581783182513
+"200",1058,"SANGER","Pictilisib","GDC-0941, GDC0941, RG-7621","PI3K (class 1)","PI3K/MTOR signaling","GDC.0941..GDSC2.1058.","MSS_TP53neg",0.140200872720091
+"201",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","STAD_MSI",0.183527137615183
+"202",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","STAD_GS",-0.285664535799339
+"203",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","MSI",-0.121862666223588
+"204",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","STAD_EBV",-0.326282255050901
+"205",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","MSS_TP53neg",0.321887678868996
+"206",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","MSS_TP53pos",-0.362088705868822
+"207",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","High_cal",0.194583688443939
+"208",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","Low_cal",-0.194583688443939
+"209",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","STAD_CIN",0.0914566693744808
+"210",1060,"SANGER","PD0325901","PD-0325901, PD 0325901","MEK1, MEK2","ERK MAPK signaling","PD.0325901..GDSC2.1060.","EMT",0.279420793195455
+"211",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","STAD_GS",0.191472635589665
+"212",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","MSI",-0.456103194168102
+"213",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","High_cal",0.0499374780538145
+"214",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","STAD_MSI",0.0727739926082288
+"215",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","STAD_CIN",-0.0135718543299366
+"216",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","MSS_TP53pos",0.485104353458041
+"217",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","Low_cal",-0.0499374780538145
+"218",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","STAD_EBV",-0.399969268147124
+"219",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","EMT",-0.111638967027146
+"220",1068,"SANGER","Obatoclax Mesylate","GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1","Apoptosis regulation","obatoclax..GDSC2.1068.","MSS_TP53neg",-0.159138995426895
+"221",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","STAD_EBV",-0.0920137930403844
+"222",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","MSI",0.132311005040695
+"223",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","MSS_TP53neg",0.159195503441626
+"224",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","STAD_CIN",-0.267099756457328
+"225",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","MSS_TP53pos",-0.180365802584477
+"226",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","STAD_GS",0.34005230681128
+"227",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","STAD_MSI",0.178128636253867
+"228",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","EMT",-0.0661822853879017
+"229",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","High_cal",0.593550100169203
+"230",1079,"SANGER","Dasatinib","BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT","Other, kinases","dasatinib..GDSC2.1079.","Low_cal",-0.593550100169203
+"231",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","MSI",0.338213183269383
+"232",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","MSS_TP53pos",0.102239856079481
+"233",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","STAD_GS",0.0150328457733158
+"234",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","STAD_MSI",0.157329974993474
+"235",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","STAD_CIN",-0.165030420888926
+"236",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","High_cal",-0.0940325116630921
+"237",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","STAD_EBV",0.0762344051241671
+"238",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","Low_cal",0.0940325116630921
+"239",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","EMT",-0.128778936236132
+"240",1080,"SANGER","Paclitaxel","BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane","Microtubule stabiliser","Mitosis","paclitaxel..GDSC2.1080.","MSS_TP53neg",-0.272474691626372
+"241",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","STAD_MSI",-0.298476818359771
+"242",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","MSI",-0.143269978474064
+"243",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","MSS_TP53pos",0.0353292663329229
+"244",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","STAD_EBV",-0.438700501614693
+"245",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","Low_cal",-0.239173496111617
+"246",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","MSS_TP53neg",-0.137786210210305
+"247",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","STAD_CIN",0.379461073500191
+"248",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","High_cal",0.239173496111617
+"249",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","STAD_GS",0.0126729652565027
+"250",1084,"SANGER","Rapamycin","AY-22989, Sirolimus, WY-090217, Torisel, Rapamune","MTORC1","PI3K/MTOR signaling","WY.090217..GDSC2.1084.","EMT",0.234265574015162
+"251",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","MSI",-0.210181422294631
+"252",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","MSS_TP53neg",-0.331731131018841
+"253",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","High_cal",-0.369762210455581
+"254",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","EMT",0.0628176956199566
+"255",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","MSS_TP53pos",0.386371710477098
+"256",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","STAD_CIN",0.0411780922745465
+"257",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","STAD_EBV",-0.0388439637208875
+"258",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","Low_cal",0.369762210455581
+"259",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","STAD_GS",-0.133883991160803
+"260",1085,"SANGER","Sorafenib","Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF","Other, kinases","sorafenib..GDSC2.1085.","STAD_MSI",0.0414024109232001
+"261",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","EMT",0.164438401694985
+"262",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","MSI",-0.234542108604178
+"263",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","MSS_TP53neg",-0.220300680471846
+"264",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","MSS_TP53pos",0.216170307107561
+"265",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","High_cal",-0.345206813052826
+"266",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","STAD_EBV",-0.0798540598618794
+"267",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","Low_cal",0.345206813052826
+"268",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","STAD_GS",0.0456307774186247
+"269",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","STAD_CIN",0.0914584690368414
+"270",1088,"SANGER","Irinotecan","Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride","TOP1","DNA replication","irinotecan..GDSC2.1088.","STAD_MSI",-0.133486197316416
+"271",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","MSS_TP53neg",-0.136939596079803
+"272",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","EMT",0.139930377350272
+"273",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","Low_cal",0.318354597641785
+"274",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","MSS_TP53pos",0.117243867958177
+"275",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","High_cal",-0.318354597641785
+"276",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","MSI",-0.135704400402761
+"277",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","STAD_CIN",-0.0649265113542054
+"278",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","STAD_EBV",-0.318545364223856
+"279",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","STAD_MSI",0.123198725204386
+"280",1089,"SANGER","Oxaliplatin","Eloxatin","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1089.","STAD_GS",0.146638968861797
+"281",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","EMT",-0.0125660538083954
+"282",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","MSS_TP53neg",-0.0829890261174272
+"283",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","MSI",0.346960768618877
+"284",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","Low_cal",-0.0853833823396329
+"285",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","High_cal",0.0853833823396329
+"286",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","STAD_EBV",0.0899813041123292
+"287",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","STAD_MSI",0.28981158291573
+"288",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","STAD_GS",-0.0621078672132795
+"289",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","STAD_CIN",-0.247178648117251
+"290",1091,"SANGER","BMS-536924","BMS 536924","IGF1R, IR","IGF1R signaling","BMS.536924..GDSC2.1091.","MSS_TP53pos",-0.15288001212791
+"291",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","EMT",-0.493825735021359
+"292",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","MSI",0.192143303109635
+"293",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","MSS_TP53pos",0.327767180905088
+"294",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","STAD_CIN",-0.149886474244088
+"295",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","Low_cal",0.191830324594923
+"296",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","MSS_TP53neg",-0.1359386228259
+"297",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","High_cal",-0.191830324594923
+"298",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","STAD_MSI",0.0478505509058128
+"299",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","STAD_GS",0.0690434844115579
+"300",1093,"SANGER","GSK1904529A","GSK-1904529A, GSK 1904529A","IGF1R, IR","IGF1R signaling","GSK1904529A..GDSC2.1093.","STAD_EBV",0.220918765834755
+"301",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","MSS_TP53neg",0.078198005494414
+"302",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","MSI",0.184704387377502
+"303",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","Low_cal",-0.226159344593735
+"304",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","STAD_CIN",-0.0521076630543508
+"305",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","EMT",0.0507343148043408
+"306",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","High_cal",0.226159344593735
+"307",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","STAD_EBV",0.241762357382869
+"308",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","STAD_MSI",-0.0202153841700678
+"309",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","STAD_GS",-0.0301739939022432
+"310",1168,"SANGER","Erlotinib","Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415","EGFR","EGFR signaling","erlotinib..GDSC2.1168.","MSS_TP53pos",-0.238876632034861
+"311",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","STAD_CIN",0.27032067577117
+"312",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","MSI",-0.0188148499216294
+"313",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","MSS_TP53pos",-0.187715395189766
+"314",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","STAD_MSI",-0.0969974143969588
+"315",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","High_cal",0.127365699315611
+"316",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","EMT",0.182800580043111
+"317",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","STAD_GS",-0.384762396080764
+"318",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","Low_cal",-0.127365699315611
+"319",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","STAD_EBV",0.0104714998145129
+"320",1177,"SANGER","Niraparib","MK-4827, MK4827","PARP1, PARP2","Genome integrity","niraparib..GDSC2.1177.","MSS_TP53neg",0.100303563592064
+"321",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","EMT",-0.0216499076711661
+"322",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","High_cal",0.00394682328953349
+"323",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","Low_cal",-0.00394682328953349
+"324",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","STAD_CIN",-0.184093166086642
+"325",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","STAD_MSI",0.219200058136169
+"326",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","STAD_EBV",-0.0707334596392322
+"327",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","MSS_TP53pos",-0.116418261264043
+"328",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","STAD_GS",0.0527791232464067
+"329",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","MSS_TP53neg",0.0530490343764612
+"330",1179,"SANGER","MK-1775","AZD1775","WEE1, PLK1","Cell cycle","MK.1775..GDSC2.1179.","MSI",0.129497304914026
+"331",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","EMT",0.312369051379609
+"332",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","High_cal",0.0288021743021984
+"333",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","Low_cal",-0.0288021743021984
+"334",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","STAD_CIN",0.098322993151891
+"335",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","STAD_MSI",-0.0794196071180149
+"336",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","STAD_GS",0.280488074674849
+"337",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","STAD_EBV",-0.403532142740149
+"338",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","MSS_TP53neg",0.0413220515630138
+"339",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","MSS_TP53pos",0.0663146095554406
+"340",1180,"SANGER","Dinaciclib","SCH727965, SCH 727965, SCH-727-965, MK-7965","CDK1, CDK2, CDK5, CDK9","Cell cycle","dinaciclib..GDSC2.1180.","MSI",-0.450620498079033
+"341",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","High_cal",-0.0988424820702867
+"342",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","STAD_CIN",0.172208883991689
+"343",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","STAD_GS",-0.0650512654551393
+"344",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","STAD_EBV",-0.181308255493738
+"345",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","STAD_MSI",-0.0905211286571731
+"346",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","EMT",0.303875251280794
+"347",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","MSI",-0.338429998640602
+"348",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","MSS_TP53pos",0.109265071653054
+"349",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","Low_cal",0.0988424820702867
+"350",1190,"SANGER","Gemcitabine","Gemzar, LY-188011","Pyrimidine antimetabolite","DNA replication","gemcitabine..GDSC2.1190.","MSS_TP53neg",-0.0955479649557317
+"351",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","STAD_EBV",-0.347078533430579
+"352",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","STAD_MSI",0.151975396940967
+"353",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","MSS_TP53pos",0.306790108137436
+"354",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","MSS_TP53neg",-0.0796554785419986
+"355",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","EMT",-0.338466648843642
+"356",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","STAD_CIN",-0.133844401892671
+"357",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","MSI",-0.0266809435754388
+"358",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","Low_cal",-0.0458488718544796
+"359",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","High_cal",0.0458488718544796
+"360",1191,"SANGER","Bortezomib","PS-341, LDP-341, Velcade","Proteasome","Protein stability and degradation","bortezomib..GDSC2.1191.","STAD_GS",0.262809965929277
+"361",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","STAD_EBV",0.196084853246898
+"362",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","STAD_MSI",0.160869222560033
+"363",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","MSI",0.395167511175625
+"364",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","MSS_TP53neg",-0.444704780173587
+"365",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","STAD_CIN",-0.341499059964462
+"366",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","High_cal",-0.242057665878078
+"367",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","EMT",-0.340534539919184
+"368",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","Low_cal",0.242057665878078
+"369",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","MSS_TP53pos",0.354745295287958
+"370",1199,"SANGER","Tamoxifen","Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar","ESR1","Hormone-related","tamoxifen..GDSC2.1199.","STAD_GS",0.301934062158571
+"371",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","MSI",0.153527061607285
+"372",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","EMT",-0.120289958659911
+"373",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","High_cal",-0.195777880364462
+"374",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","MSS_TP53neg",-0.127178437373273
+"375",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","MSS_TP53pos",0.0900482156002583
+"376",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","STAD_CIN",0.0202823406301748
+"377",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","Low_cal",0.195777880364462
+"378",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","STAD_GS",0.0918085770159453
+"379",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","STAD_EBV",-0.0298181502771379
+"380",1239,"SANGER","YK-4-279","YK 4-279","RNA helicase A","Other","YK.4.279..GDSC2.1239.","STAD_MSI",-0.0638543886059658
+"381",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","High_cal",-0.167095650923514
+"382",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","Low_cal",0.167095650923514
+"383",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","STAD_GS",0.0868854416203781
+"384",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","STAD_EBV",0.0884036734035106
+"385",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","MSI",-0.158419564532493
+"386",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","STAD_MSI",-0.522029777742107
+"387",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","EMT",0.036827385254835
+"388",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","STAD_CIN",0.382617851776465
+"389",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","MSS_TP53pos",0.0666610967862441
+"390",1249,"SANGER","BMS-345541","","IKK-1, IKK-2","Other","BMS.345541..GDSC2.1249.","MSS_TP53neg",0.0186806447619827
+"391",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","Low_cal",-0.156496794391886
+"392",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","STAD_CIN",-0.0258594544477057
+"393",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","STAD_GS",0.40437740054875
+"394",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","EMT",0.0791937482757246
+"395",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","MSI",0.144880111408712
+"396",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","STAD_MSI",-0.0757188607221744
+"397",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","MSS_TP53neg",-0.084743784405022
+"398",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","STAD_EBV",-0.283502128453831
+"399",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","High_cal",0.156496794391886
+"400",1250,"SANGER","AZ960","AZ 960, AZ-960","JAK2, JAK3","Other, kinases","AZ960..GDSC2.1250.","MSS_TP53pos",-0.0956902051613669
+"401",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","EMT",0.219022257073794
+"402",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","MSS_TP53pos",0.0730235491012796
+"403",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","STAD_MSI",0.00169599805756681
+"404",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","STAD_CIN",-0.0794567221777643
+"405",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","High_cal",0.0455460846369218
+"406",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","MSI",-0.0182800204134011
+"407",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","STAD_GS",0.212403736472969
+"408",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","Low_cal",-0.0455460846369218
+"409",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","MSS_TP53neg",-0.222619620956042
+"410",1259,"SANGER","Talazoparib","BMN-673, BMN 973","PARP1, PARP2","Genome integrity","talazoparib..GDSC2.1259.","STAD_EBV",-0.0306975740968318
+"411",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","STAD_GS",-0.201255671151157
+"412",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","High_cal",0.279875746886809
+"413",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","MSS_TP53neg",0.399399741662541
+"414",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","Low_cal",-0.279875746886809
+"415",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","MSI",-0.229063592912189
+"416",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","MSS_TP53pos",-0.422455235140178
+"417",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","STAD_MSI",0.205839613149879
+"418",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","EMT",0.340152521426695
+"419",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","STAD_CIN",0.0885074804093832
+"420",1372,"SANGER","Trametinib","GSK1120212, Mekinist","MEK1, MEK2","ERK MAPK signaling","trametinib..GDSC2.1372.","STAD_EBV",-0.49594219506857
+"421",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","High_cal",0.087136916664273
+"422",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","MSS_TP53pos",0.074454477738582
+"423",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","STAD_MSI",0.31909852811045
+"424",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","STAD_EBV",0.0716247864044835
+"425",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","Low_cal",-0.087136916664273
+"426",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","MSS_TP53neg",-0.333986683146736
+"427",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","STAD_GS",0.434743836507709
+"428",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","EMT",0.0116243477836609
+"429",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","MSI",0.300169867114675
+"430",1373,"SANGER","Dabrafenib","GSK2118436, Tafinlar","BRAF","ERK MAPK signaling","dabrafenib..GDSC2.1373.","STAD_CIN",-0.496969599071575
+"431",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","High_cal",-0.691767664963398
+"432",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","STAD_GS",0.159896990705558
+"433",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","EMT",0.0851471914299362
+"434",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","MSI",-0.038227965138676
+"435",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","STAD_CIN",-0.213994949371046
+"436",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","STAD_MSI",0.0111112742637624
+"437",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","MSS_TP53pos",0.301182404598023
+"438",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","STAD_EBV",0.306758096662477
+"439",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","Low_cal",0.691767664963398
+"440",1375,"SANGER","Temozolomide","Temodar, Temodal, M-39831, SCH 52365","DNA alkylating agent","DNA replication","temozolomide..GDSC2.1375.","MSS_TP53neg",-0.389841328695617
+"441",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","STAD_MSI",-0.0472306190975556
+"442",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","STAD_GS",0.122344715921138
+"443",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","STAD_EBV",0.292849367201975
+"444",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","MSS_TP53neg",-0.172526277169042
+"445",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","MSI",0.383336573553151
+"446",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","High_cal",-0.17013432600693
+"447",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","MSS_TP53pos",-0.131548684850929
+"448",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","EMT",0.0322665741000978
+"449",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","Low_cal",0.17013432600693
+"450",1510,"SANGER","Linsitinib","OSI-906, ASP-7487","IGF1R","IGF1R signaling","linsitinib..GDSC2.1510.","STAD_CIN",-0.113776920981744
+"451",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","STAD_EBV",-0.331908933471702
+"452",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","STAD_MSI",-0.0388050005314408
+"453",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","MSS_TP53neg",-0.0327211896964395
+"454",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","MSS_TP53pos",0.294358448943436
+"455",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","MSI",-0.244644615734433
+"456",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","Low_cal",0.0258561445951644
+"457",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","EMT",-0.16498415262827
+"458",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","High_cal",-0.0258561445951644
+"459",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","STAD_GS",0.277116354144193
+"460",1511,"SANGER","Epirubicin","Ellence, Farmorubicin, IMI-28","Anthracycline","DNA replication","epirubicin..GDSC2.1511.","STAD_CIN",0.013684486066023
+"461",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","MSS_TP53neg",-0.0477904865882554
+"462",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","STAD_MSI",-0.201559530361028
+"463",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","MSI",-0.359186587308273
+"464",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","MSS_TP53pos",0.329935109399425
+"465",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","Low_cal",0.348156861293025
+"466",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","EMT",-0.085018828702866
+"467",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","STAD_GS",-0.18373982251596
+"468",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","STAD_CIN",0.289483716974915
+"469",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","High_cal",-0.348156861293025
+"470",1529,"SANGER","Pevonedistat","MLN4924, MLN 4924, MLN-4924","NAE","Other","pevonedistat..GDSC2.1529.","STAD_EBV",-0.104697648928958
+"471",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","MSS_TP53neg",-0.150086144782269
+"472",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","MSI",0.381154946603232
+"473",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","STAD_CIN",-0.367067092856804
+"474",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","Low_cal",-0.457736150564808
+"475",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","MSS_TP53pos",-0.205997388642414
+"476",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","STAD_MSI",0.173526523895153
+"477",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","STAD_GS",0.32558914294775
+"478",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","High_cal",0.457736150564808
+"479",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","EMT",0.124349859958265
+"480",1549,"SANGER","Sapitinib","AZD8931","EGFR, ERBB2, ERBB3","EGFR signaling","AZD8931..GDSC2.1549.","STAD_EBV",0.209742835930017
+"481",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","MSS_TP53pos",0.0698850120234126
+"482",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","STAD_MSI",-0.285686636320135
+"483",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","MSI",0.0663220537099431
+"484",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","EMT",-0.0972518107380123
+"485",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","MSS_TP53neg",-0.0704259713118433
+"486",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","Low_cal",-0.151914693643359
+"487",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","STAD_EBV",-0.15898913190107
+"488",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","High_cal",0.151914693643359
+"489",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","STAD_GS",0.252104260353625
+"490",1553,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.1553.","STAD_CIN",0.183781796032702
+"491",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","STAD_MSI",0.221204211857103
+"492",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","MSS_TP53neg",-0.337749270956359
+"493",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","STAD_GS",0.299989616608682
+"494",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","MSS_TP53pos",-0.0633598401378468
+"495",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","MSI",0.42791433566119
+"496",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","STAD_CIN",-0.423764245607908
+"497",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","EMT",0.133565882817312
+"498",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","Low_cal",-0.282768836259888
+"499",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","STAD_EBV",0.281857203473217
+"500",1558,"SANGER","Lapatinib","Tykerb, Tyverb","EGFR, ERBB2","EGFR signaling","lapatinib..GDSC2.1558.","High_cal",0.282768836259888
+"501",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","STAD_GS",0.1407093484077
+"502",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","MSI",-0.227764690281258
+"503",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","EMT",0.0572918036478788
+"504",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","MSS_TP53neg",0.0524612246791309
+"505",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","MSS_TP53pos",0.0644776459780293
+"506",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","STAD_MSI",0.358388633723646
+"507",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","High_cal",0.478672606232176
+"508",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","Low_cal",-0.478672606232176
+"509",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","STAD_CIN",-0.213403967634832
+"510",1559,"SANGER","Luminespib","AUY922, VER-52296,NVP-AUY922,  AUY","HSP90","Protein stability and degradation","AUY922..GDSC2.1559.","STAD_EBV",-0.453346674969505
+"511",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","STAD_MSI",0.0991768378591328
+"512",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","EMT",-0.46608523704356
+"513",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","High_cal",0.322232351496285
+"514",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","MSS_TP53pos",0.211065373755029
+"515",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","MSI",0.123477908962075
+"516",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","STAD_GS",0.17842883106195
+"517",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","STAD_EBV",-0.249751102954258
+"518",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","MSS_TP53neg",-0.00797027371929658
+"519",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","STAD_CIN",-0.0832728972621276
+"520",1560,"SANGER","Alpelisib","BYL719, BYL-719, NVP-BYL719","PI3Kalpha","PI3K/MTOR signaling","alpelisib..GDSC2.1560.","Low_cal",-0.322232351496285
+"521",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","MSI",0.0353767097005781
+"522",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","STAD_MSI",0.10992407635087
+"523",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","STAD_EBV",-0.422027764745831
+"524",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","STAD_CIN",-0.0385012369541951
+"525",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","MSS_TP53neg",0.212514151922833
+"526",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","EMT",-0.423804665096005
+"527",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","MSS_TP53pos",0.0540643874478707
+"528",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","Low_cal",-0.45492073273424
+"529",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","High_cal",0.45492073273424
+"530",1561,"SANGER","Taselisib","GDC-0032, GDC0032, RG7604","PI3K (beta sparing)","PI3K/MTOR signaling","taselisib..GDSC2.1561.","STAD_GS",0.218121804806704
+"531",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","MSS_TP53pos",-0.360027101807468
+"532",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","MSS_TP53neg",0.0571730633134912
+"533",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","EMT",0.236594147046714
+"534",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","High_cal",0.571424742537203
+"535",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","MSI",0.287576341380631
+"536",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","STAD_MSI",-0.0334949408185789
+"537",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","STAD_GS",0.0969769685360647
+"538",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","STAD_CIN",-0.0287989950052944
+"539",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","Low_cal",-0.571424742537203
+"540",1563,"SANGER","EPZ5676","EPZ-5676, Pinometostat","DOT1L","Chromatin histone methylation","EPZ.5676..GDSC2.1563.","STAD_EBV",0.11231333829996
+"541",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","STAD_MSI",0.239519221630338
+"542",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","EMT",0.308348182627091
+"543",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","STAD_CIN",0.0690114613524375
+"544",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","MSS_TP53neg",0.268766523748687
+"545",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","Low_cal",-0.343389098311717
+"546",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","MSS_TP53pos",-0.2660105604269
+"547",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","High_cal",0.343389098311717
+"548",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","MSI",-0.236945138811089
+"549",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","STAD_EBV",-0.567905441549397
+"550",1564,"SANGER","SCH772984","CS-1421","ERK1, ERK2","ERK MAPK signaling","CS.1421..GDSC2.1564.","STAD_GS",-0.161843158511284
+"551",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","MSI",-0.470118904679729
+"552",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","STAD_GS",-0.191912514948833
+"553",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","STAD_MSI",-0.267582073372475
+"554",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","STAD_CIN",0.340354435001471
+"555",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","MSS_TP53neg",-0.0816523589837949
+"556",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","EMT",0.224226656495638
+"557",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","High_cal",-0.261702632587806
+"558",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","Low_cal",0.261702632587806
+"559",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","MSS_TP53pos",0.220822439137369
+"560",1578,"SANGER","Leflunomide","Sulol, SU-101, HWA-486, Arava","Pyrimidine synthesis inhibitor","DNA replication","leflunomide..GDSC2.1578.","STAD_EBV",-0.0333876841141307
+"561",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","MSI",-0.156186793266605
+"562",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","STAD_MSI",-0.124522675321821
+"563",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","High_cal",0.0562569627401701
+"564",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","MSS_TP53neg",-0.0783434671829668
+"565",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","EMT",0.338849373787714
+"566",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","STAD_GS",0.432765942727638
+"567",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","MSS_TP53pos",-0.0623664237077415
+"568",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","STAD_CIN",-0.00269138605970402
+"569",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","Low_cal",-0.0562569627401701
+"570",1593,"SANGER","Entinostat","MS-275","HDAC1, HDAC3","Chromatin histone acetylation","entinostat..GDSC2.1593.","STAD_EBV",-0.208834623533443
+"571",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","MSS_TP53neg",-0.364464074685449
+"572",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","STAD_GS",0.0350394660145288
+"573",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","MSI",0.0101911511905776
+"574",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","STAD_CIN",-0.187063363943199
+"575",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","EMT",0.128025236847448
+"576",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","High_cal",-0.595049311764917
+"577",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","MSS_TP53pos",0.244091034315982
+"578",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","Low_cal",0.595049311764917
+"579",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","STAD_MSI",0.0209557010404275
+"580",1598,"SANGER","LGK974","LGK-974","PORCN","WNT signaling","LGK.974..GDSC2.1598.","STAD_EBV",0.448117724539834
+"581",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","MSS_TP53neg",0.209590311590483
+"582",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","MSI",0.0205265949383489
+"583",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","MSS_TP53pos",-0.0822290508195168
+"584",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","STAD_CIN",-0.137863125327246
+"585",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","STAD_MSI",0.26782187280615
+"586",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","High_cal",0.0806809426429042
+"587",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","STAD_EBV",-0.211523229279061
+"588",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","EMT",-0.124702801090338
+"589",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","STAD_GS",-0.0603878779334276
+"590",1613,"SANGER","VE-822","VE 822, VE822, Berzosertib","ATR","Genome integrity","VE.822..GDSC2.1613.","Low_cal",-0.0806809426429042
+"591",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","MSS_TP53neg",-0.110999939651783
+"592",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","STAD_CIN",-0.33846426556918
+"593",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","MSI",0.272468671000344
+"594",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","EMT",-0.0712250217678457
+"595",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","High_cal",0.245668949153864
+"596",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","STAD_EBV",0.0269329790764606
+"597",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","MSS_TP53pos",-0.0558028701146359
+"598",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","STAD_GS",0.159381293656409
+"599",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","STAD_MSI",0.280207214854017
+"600",1614,"SANGER","WZ4003","WZ 4003","NUAK1, NUAK2","Other, kinases","WZ4003..GDSC2.1614.","Low_cal",-0.245668949153864
+"601",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","STAD_MSI",0.273483629558802
+"602",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","MSS_TP53neg",0.279094546631779
+"603",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","Low_cal",-0.282693030079418
+"604",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","EMT",0.0228313960944908
+"605",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","STAD_CIN",-0.239691099741403
+"606",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","MSI",0.250136459904937
+"607",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","STAD_EBV",-0.0865656086489989
+"608",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","MSS_TP53pos",-0.353197979377201
+"609",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","High_cal",0.282693030079418
+"610",1617,"SANGER","AZD5582","GTPL7710, AOB5560","XIAP, cIAP","Apoptosis regulation","AZD5582..GDSC2.1617.","STAD_GS",0.00409220293934493
+"611",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","MSS_TP53neg",-0.389599827572678
+"612",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","MSI",0.154627057827488
+"613",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","MSS_TP53pos",-0.0229386089599342
+"614",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","STAD_MSI",0.13092085693093
+"615",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","STAD_GS",0.131099116184934
+"616",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","Low_cal",0.0564067828959878
+"617",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","EMT",0.326596746382962
+"618",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","High_cal",-0.0564067828959878
+"619",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","STAD_EBV",0.358154100930705
+"620",1618,"SANGER","GSK2606414","AK175551","PERK","Metabolism","GSK2606414..GDSC2.1618.","STAD_CIN",-0.311506381516805
+"621",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","STAD_MSI",0.500410251942687
+"622",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","EMT",-0.0064242186391512
+"623",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","MSI",-0.0347342238403654
+"624",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","STAD_CIN",-0.563751763520955
+"625",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","High_cal",0.101569332530735
+"626",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","STAD_EBV",0.0646335431472897
+"627",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","MSS_TP53pos",0.074962856034684
+"628",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","MSS_TP53neg",-0.0669112520199604
+"629",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","STAD_GS",0.160174069563791
+"630",1622,"SANGER","Wnt-C59","AOB3540, AK161197","PORCN","WNT signaling","wnt.c59..GDSC2.1622.","Low_cal",-0.101569332530735
+"631",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","MSI",0.0853742094926183
+"632",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","MSS_TP53pos",-0.0326545689469487
+"633",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","STAD_EBV",-0.0920765906069934
+"634",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","MSS_TP53neg",0.115461728877935
+"635",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","STAD_MSI",0.218762151195691
+"636",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","Low_cal",-0.128988032295388
+"637",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","STAD_CIN",-0.198706003202835
+"638",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","EMT",-0.160061327626942
+"639",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","High_cal",0.128988032295388
+"640",1624,"SANGER","I-BET-762","GSK525762A","BRD2, BRD3, BRD4","Chromatin other","I.BET.762..GDSC2.1624.","STAD_GS",0.0674221507016181
+"641",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","MSS_TP53neg",0.543887803637105
+"642",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","MSS_TP53pos",-0.318424634461095
+"643",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","MSI",0.137159031765605
+"644",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","EMT",-0.249500532833754
+"645",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","STAD_GS",0.213051203519073
+"646",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","STAD_CIN",-0.0696249135483878
+"647",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","STAD_EBV",-0.196558917704934
+"648",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","High_cal",0.205509122944166
+"649",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","Low_cal",-0.205509122944166
+"650",1626,"SANGER","OTX015","Birabresib, OTX-015, MK-8628","BRD2, BRD3, BRD4","Chromatin other","OTX015..GDSC2.1626.","STAD_MSI",0.0520537472025604
+"651",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","EMT",0.332063946108359
+"652",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","MSS_TP53neg",-0.509005545470508
+"653",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","MSI",-0.134914845575655
+"654",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","High_cal",0.161813213691221
+"655",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","MSS_TP53pos",0.237433228460164
+"656",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","Low_cal",-0.161813213691221
+"657",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","STAD_CIN",-0.363327864500145
+"658",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","STAD_MSI",0.221644036338938
+"659",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","STAD_EBV",-0.0453669661765569
+"660",1629,"SANGER","ML323","GTPL7898, AOB2313,","USP1, UAF1","Protein stability and degradation","ML323..GDSC2.1629.","STAD_GS",0.393500877384199
+"661",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","MSS_TP53pos",-0.224784107111506
+"662",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","STAD_MSI",0.134565630855215
+"663",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","EMT",0.101002836651449
+"664",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","MSS_TP53neg",-0.268300610900471
+"665",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","MSI",0.524061554362389
+"666",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","STAD_EBV",0.388965764637605
+"667",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","High_cal",0.167201622426755
+"668",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","Low_cal",-0.167201622426755
+"669",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","STAD_GS",0.153077391768252
+"670",1631,"SANGER","PRT062607","P505-15, PRT-2607, BIIB-057","SYK","Other, kinases","PRT062607..GDSC2.1631.","STAD_CIN",-0.339068275809789
+"671",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","MSS_TP53neg",0.263739710153076
+"672",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","High_cal",-0.169313030708414
+"673",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","EMT",0.0897072410184775
+"674",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","STAD_MSI",-0.0154236251623247
+"675",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","STAD_GS",0.38305685499935
+"676",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","STAD_CIN",0.00612061338667046
+"677",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","MSI",-0.27378660297772
+"678",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","MSS_TP53pos",-0.0608158854586721
+"679",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","Low_cal",0.169313030708414
+"680",1806,"SANGER","Oxaliplatin","","DNA alkylating agent","DNA replication","oxaliplatin..GDSC2.1806.","STAD_EBV",-0.441694681528821
+"681",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","MSS_TP53neg",-0.041108181171044
+"682",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","EMT",0.226719777054841
+"683",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","MSS_TP53pos",0.242507837626487
+"684",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","STAD_MSI",-0.039610775981513
+"685",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","High_cal",-0.145402786797936
+"686",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","MSI",-0.540916497973337
+"687",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","STAD_CIN",0.0972006603480977
+"688",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","Low_cal",0.145402786797936
+"689",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","STAD_GS",0.0687414099900096
+"690",1808,"SANGER","Topotecan","","","DNA replication","topotecan..GDSC2.1808.","STAD_EBV",-0.243720696910377
+"691",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","MSS_TP53pos",0.484775679214822
+"692",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","STAD_MSI",0.00508667722946564
+"693",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","EMT",-0.29344683091293
+"694",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","High_cal",-0.187780462427279
+"695",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","MSI",-0.320426658457717
+"696",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","Low_cal",0.187780462427279
+"697",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","STAD_CIN",-0.0428703188881255
+"698",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","STAD_EBV",-0.295491259187968
+"699",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","STAD_GS",0.33164615084795
+"700",1809,"SANGER","Teniposide","Vumon","","DNA replication","teniposide..GDSC2.1809.","MSS_TP53neg",-0.106723206377459
+"701",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","MSS_TP53pos",0.332707652972477
+"702",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","MSI",-0.52118092643292
+"703",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","High_cal",-0.122872759332457
+"704",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","STAD_CIN",0.0834453829271173
+"705",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","EMT",0.0179905205398867
+"706",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","Low_cal",0.122872759332457
+"707",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","STAD_EBV",-0.366877504495932
+"708",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","MSS_TP53neg",0.00638606717643119
+"709",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","STAD_MSI",0.032682359899366
+"710",1810,"SANGER","Mitoxantrone","","","DNA replication","mitoxantrone..GDSC2.1810.","STAD_GS",0.0557210484968938
+"711",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","STAD_EBV",-0.649592424149237
+"712",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","MSI",-0.329754109113339
+"713",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","MSS_TP53neg",-0.00828390336149142
+"714",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","STAD_CIN",-0.0923640208346358
+"715",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","STAD_GS",0.656882497342773
+"716",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","MSS_TP53pos",0.0923396030435312
+"717",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","Low_cal",-0.19000761145876
+"718",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","High_cal",0.19000761145876
+"719",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","STAD_MSI",0.0447672913066819
+"720",1811,"SANGER","Dactinomycin","Actinomycin D","","Other","dactinomycin..GDSC2.1811.","EMT",0.204124509370114
+"721",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","MSS_TP53pos",0.033658008632077
+"722",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","Low_cal",0.333250879520001
+"723",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","High_cal",-0.333250879520001
+"724",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","STAD_MSI",-0.332477566900488
+"725",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","STAD_EBV",-0.22091595298643
+"726",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","MSI",-0.143046560906595
+"727",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","MSS_TP53neg",0.0604038974247792
+"728",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","STAD_GS",0.636954143033693
+"729",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","STAD_CIN",0.0998840195794517
+"730",1818,"SANGER","Vincristine","","","Mitosis","vincristine..GDSC2.1818.","EMT",0.0284536586985125
+"731",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","MSS_TP53neg",-0.294883977229901
+"732",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","MSS_TP53pos",0.440519198652768
+"733",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","High_cal",-0.222304060155269
+"734",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","STAD_GS",0.481391896818182
+"735",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","STAD_CIN",-0.17249427156288
+"736",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","Low_cal",0.222304060155269
+"737",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","MSI",-0.276641864829011
+"738",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","STAD_EBV",-0.22038786946195
+"739",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","EMT",-0.108067132931128
+"740",1825,"SANGER","Podophyllotoxin bromide","","","Unclassified","Podophyllotoxin.bromide..GDSC2.1825.","STAD_MSI",0.0667953744346106
+"741",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","MSS_TP53neg",-0.474696479297116
+"742",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","STAD_EBV",0.205270120649886
+"743",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","MSI",-0.251137799478002
+"744",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","STAD_MSI",-0.0446439577664187
+"745",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","Low_cal",0.4896905190649
+"746",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","EMT",0.182068372192949
+"747",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","MSS_TP53pos",0.389485636978106
+"748",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","STAD_GS",0.00697089933056044
+"749",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","STAD_CIN",-0.0398046322550702
+"750",1827,"SANGER","Dihydrorotenone","","","Unclassified","Dihydrorotenone..GDSC2.1827.","High_cal",-0.4896905190649
+"751",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","STAD_CIN",-0.258550898359356
+"752",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","EMT",-0.12736036199558
+"753",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","MSS_TP53neg",-0.0713649885979811
+"754",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","STAD_EBV",-0.65322578790467
+"755",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","STAD_GS",0.417509825184604
+"756",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","Low_cal",-0.234032426448341
+"757",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","High_cal",0.234032426448341
+"758",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","STAD_MSI",0.411040999008178
+"759",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","MSS_TP53pos",0.235727635595318
+"760",1835,"SANGER","Elephantin","","","Unclassified","Elephantin..GDSC2.1835.","MSI",-0.151622245227727
+"761",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","STAD_EBV",-0.103001473644175
+"762",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","STAD_CIN",0.264712756024662
+"763",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","MSS_TP53pos",0.349762496660211
+"764",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","High_cal",-0.210653976814068
+"765",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","STAD_GS",-0.186916110805789
+"766",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","Low_cal",0.210653976814068
+"767",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","MSS_TP53neg",0.0932216880389721
+"768",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","STAD_MSI",-0.154594524013151
+"769",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","MSI",-0.433376704169001
+"770",1849,"SANGER","Sabutoclax","BI-97C1","BCL2,  BCL-XL,  BFL1, MCL1","Apoptosis regulation","BI.97C1..GDSC2.1849.","EMT",-0.191856326393449
+"771",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","STAD_GS",0.286476108803046
+"772",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","MSS_TP53neg",-0.00537134206714248
+"773",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","STAD_MSI",0.330997359525343
+"774",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","MSI",-0.382083234643903
+"775",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","MSS_TP53pos",0.11996733381986
+"776",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","STAD_CIN",-0.254938493049724
+"777",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","STAD_EBV",-0.469411806294163
+"778",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","EMT",0.212220231525106
+"779",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","High_cal",0.0905715398338219
+"780",1855,"SANGER","KRAS (G12C) Inhibitor-12","GTPL8020","KRAS (G12C)","ERK MAPK signaling","GTPL8020..GDSC2.1855.","Low_cal",-0.0905715398338219
+"781",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","STAD_MSI",0.0590712179872954
+"782",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","STAD_CIN",-0.184955876353077
+"783",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","MSI",0.295302301808978
+"784",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","High_cal",0.111502126184543
+"785",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","EMT",-0.0357987909388702
+"786",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","MSS_TP53pos",-0.09368643019567
+"787",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","STAD_EBV",-0.0167447062083589
+"788",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","Low_cal",-0.111502126184543
+"789",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","STAD_GS",0.301370756909796
+"790",1866,"SANGER","BDP-00009066","","MRCKB_HUMAN","Cytoskeleton","BDP.00009066..GDSC2.1866.","MSS_TP53neg",-0.0849902093731653
+"791",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","STAD_MSI",-0.213120346017647
+"792",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","EMT",-0.360875946731066
+"793",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","MSI",-0.061944276460465
+"794",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","Low_cal",0.0889829338282218
+"795",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","MSS_TP53pos",0.22980316249929
+"796",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","High_cal",-0.0889829338282218
+"797",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","STAD_EBV",-0.214551681609154
+"798",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","STAD_CIN",0.159304357089641
+"799",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","STAD_GS",0.193137730400066
+"800",1873,"SANGER","Buparlisib","BKM120, NVP-BKM120","PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma","PI3K/MTOR signaling","buparlisib..GDSC2.1873.","MSS_TP53neg",0.050800432227792
+"801",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","STAD_EBV",-0.614924572183742
+"802",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","MSI",-0.292671929956767
+"803",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","STAD_CIN",0.0332324363539231
+"804",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","Low_cal",-0.286424758858011
+"805",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","High_cal",0.286424758858011
+"806",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","STAD_GS",-0.0661911807207849
+"807",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","MSS_TP53neg",0.342754501566321
+"808",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","STAD_MSI",0.243947516596361
+"809",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","MSS_TP53pos",-0.128593765322151
+"810",1908,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.1908.","EMT",0.0274071746251347
+"811",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","Low_cal",0.253540905256192
+"812",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","STAD_CIN",0.0215410551477465
+"813",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","STAD_EBV",0.292556224096817
+"814",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","MSS_TP53neg",-0.13012521715826
+"815",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","STAD_MSI",-0.226787163358555
+"816",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","STAD_GS",0.148133282925348
+"817",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","MSS_TP53pos",0.278004140177773
+"818",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","MSI",-0.22088377612883
+"819",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","EMT",-0.018773203217803
+"820",1909,"SANGER","Venetoclax","ABT-199, Veneclexta, GDC-0199","BCL2","Apoptosis regulation","venetoclax..GDSC2.1909.","High_cal",-0.253540905256192
+"821",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","Low_cal",-0.533130310137655
+"822",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","STAD_EBV",-0.145329191108951
+"823",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","STAD_MSI",0.336926946465655
+"824",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","STAD_CIN",-0.168431130142194
+"825",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","MSS_TP53neg",0.154129349169626
+"826",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","STAD_GS",-0.13696757720788
+"827",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","MSS_TP53pos",-0.272100280213591
+"828",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","MSI",-0.0499460559727972
+"829",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","EMT",0.250269611314972
+"830",1910,"SANGER","ABT737","","BCL2, BCL-XL,  BCL-W, BCL-B, BFL1","Apoptosis regulation","ABT737..GDSC2.1910.","High_cal",0.533130310137655
+"831",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","STAD_EBV",-0.433847409120033
+"832",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","MSS_TP53neg",0.166759164368468
+"833",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","MSI",-0.306331442999066
+"834",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","STAD_MSI",-0.234565117557688
+"835",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","High_cal",0.0737493568202527
+"836",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","EMT",0.0256878622746623
+"837",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","STAD_GS",0.224078953526285
+"838",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","STAD_CIN",0.236148633465369
+"839",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","Low_cal",-0.0737493568202527
+"840",1911,"SANGER","Dactinomycin","Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD","RNA polymerase","Other","dactinomycin..GDSC2.1911.","MSS_TP53pos",0.0356988571835378
+"841",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","STAD_CIN",0.0855619455004051
+"842",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","STAD_MSI",-0.162477919901664
+"843",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","STAD_GS",0.213521363965399
+"844",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","MSS_TP53neg",-0.0696603568348197
+"845",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","EMT",-0.375834278301202
+"846",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","High_cal",0.116046800477927
+"847",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","MSS_TP53pos",0.205706278412009
+"848",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","MSI",0.153129275709804
+"849",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","Low_cal",-0.116046800477927
+"850",1912,"SANGER","Afuresertib","GSK2110183, GSK2110183C","AKT1, AKT2, AKT3","PI3K/MTOR signaling","GSK2110183C..GDSC2.1912.","STAD_EBV",-0.149153740747685
+"851",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","MSS_TP53neg",-0.0700142219058746
+"852",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","STAD_MSI",-0.314632765798991
+"853",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","STAD_GS",0.164576200293193
+"854",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","EMT",-0.450972554083543
+"855",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","STAD_EBV",0.300032287475107
+"856",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","MSI",0.31152931703692
+"857",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","MSS_TP53pos",0.149408104101665
+"858",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","STAD_CIN",0.0878131890616728
+"859",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","Low_cal",0.315436826031084
+"860",1913,"SANGER","AGI-5198","IDH-C35","IDH1 (R132H)","Metabolism","AGI.5198..GDSC2.1913.","High_cal",-0.315436826031084
+"861",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","STAD_CIN",-0.243859281710764
+"862",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","MSS_TP53pos",0.0150473205649156
+"863",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","STAD_MSI",0.0278003077891433
+"864",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","STAD_GS",0.247387213233614
+"865",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","MSS_TP53neg",-0.421556805642462
+"866",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","EMT",-0.0564743926511741
+"867",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","MSI",0.515486123439492
+"868",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","Low_cal",-0.169374087580432
+"869",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","STAD_EBV",0.264682174974577
+"870",1915,"SANGER","AZD3759","","EGFR","EGFR signaling","AZD3759..GDSC2.1915.","High_cal",0.169374087580432
+"871",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","STAD_MSI",-0.228501870399061
+"872",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","STAD_GS",0.00866496951010209
+"873",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","MSS_TP53neg",0.0608795356786569
+"874",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","MSS_TP53pos",0.0833174490467852
+"875",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","Low_cal",-0.0510448220254848
+"876",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","EMT",-0.419480771139057
+"877",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","STAD_CIN",0.211222048521431
+"878",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","MSI",0.220502204999774
+"879",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","High_cal",0.0510448220254848
+"880",1916,"SANGER","AZD5363","","AKT1, AKT2, AKT3, ROCK2","Other, kinases","AZD5363..GDSC2.1916.","STAD_EBV",-0.0637617772877655
+"881",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","STAD_GS",-0.0996318876599861
+"882",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","MSS_TP53pos",0.214599027785969
+"883",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","STAD_MSI",0.208622004597987
+"884",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","MSI",0.108197577168698
+"885",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","MSS_TP53neg",-0.159559265419676
+"886",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","EMT",-0.223181140127491
+"887",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","STAD_CIN",-0.14539036495056
+"888",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","STAD_EBV",0.0533625568825995
+"889",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","Low_cal",0.310171847928643
+"890",1917,"SANGER","AZD6738","AZD 6738, AZD-6738","ATR","Genome integrity","AZD6738..GDSC2.1917.","High_cal",-0.310171847928643
+"891",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","STAD_GS",0.300898313881992
+"892",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","STAD_MSI",-0.335373562415717
+"893",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","MSI",0.228368376243819
+"894",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","MSS_TP53neg",-0.0176511603508557
+"895",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","MSS_TP53pos",0.0596551507742825
+"896",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","STAD_CIN",0.0946419881452421
+"897",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","High_cal",0.240456181972921
+"898",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","EMT",-0.296212983321425
+"899",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","STAD_EBV",0.132591885853446
+"900",1918,"SANGER","AZD8186","AZD 8186, AZD-8186","PI3Kalpha, PI3Kbeta","PI3K/MTOR signaling","AZD8186..GDSC2.1918.","Low_cal",-0.240456181972921
+"901",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","High_cal",0.332163415962804
+"902",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","STAD_MSI",0.201161428428814
+"903",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","EMT",0.157518359600881
+"904",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","MSS_TP53pos",-0.0951947090126393
+"905",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","STAD_EBV",0.234425599094093
+"906",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","MSI",0.385404148749826
+"907",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","MSS_TP53neg",-0.296137486116946
+"908",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","STAD_CIN",-0.397540521841877
+"909",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","Low_cal",-0.332163415962804
+"910",1919,"SANGER","Osimertinib","AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib","EGFR","EGFR signaling","osimertinib..GDSC2.1919.","STAD_GS",0.313925684728987
+"911",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","STAD_EBV",0.0852034808415754
+"912",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","High_cal",-0.0959370266618063
+"913",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","MSI",0.306258034790801
+"914",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","MSS_TP53neg",-0.481527786799736
+"915",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","EMT",0.0676314371316589
+"916",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","MSS_TP53pos",0.179794309097293
+"917",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","STAD_GS",0.215647073347058
+"918",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","STAD_MSI",0.149784555628682
+"919",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","STAD_CIN",-0.254673377884546
+"920",1922,"SANGER","Cediranib","AZD2171, AZD 2171, AZD-2171, Recentin","VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB","RTK signaling","cediranib..GDSC2.1922.","Low_cal",0.0959370266618063
+"921",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","MSI",0.293168861244975
+"922",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","EMT",-0.222399345010524
+"923",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","High_cal",0.0648717188868077
+"924",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","STAD_GS",0.311652356998331
+"925",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","STAD_MSI",-0.242417298674973
+"926",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","STAD_CIN",0.055994816533322
+"927",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","MSS_TP53pos",0.175374527687372
+"928",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","STAD_EBV",0.00114976999512807
+"929",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","Low_cal",-0.0648717188868077
+"930",1924,"SANGER","Ipatasertib","GDC0068, GDC 0068, GDC-0068","AKT1, AKT, AKT3","PI3K/MTOR signaling","GDC.0068..GDSC2.1924.","MSS_TP53neg",-0.252161124788539
+"931",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","STAD_EBV",0.0715275448329891
+"932",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","High_cal",0.0783252043700447
+"933",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","MSS_TP53neg",-0.18745946836656
+"934",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","MSI",0.206437448406199
+"935",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","STAD_CIN",-0.286310625353753
+"936",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","MSS_TP53pos",0.252937228470524
+"937",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","STAD_GS",0.297247359501939
+"938",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","EMT",-0.228072969723298
+"939",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","Low_cal",-0.0783252043700447
+"940",1925,"SANGER","GDC0810","GDC-0810, GDC 0810","ESR1, ESR2","Hormone-related","GDC.0810..GDSC2.1925.","STAD_MSI",0.16677644578796
+"941",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","High_cal",0.0813814603942025
+"942",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","MSS_TP53pos",0.382220669926137
+"943",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","MSI",-0.12233547075901
+"944",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","EMT",-0.432289508033747
+"945",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","STAD_CIN",0.0188431392116898
+"946",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","STAD_EBV",-0.257540628851724
+"947",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","MSS_TP53neg",-0.0365940953884836
+"948",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","Low_cal",-0.0813814603942025
+"949",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","STAD_MSI",-0.00381190589258553
+"950",1926,"SANGER","GNE-317","GNE317, GNE 317","PI3Kalpha","PI3K/MTOR signaling","GNE317..GDSC2.1926.","STAD_GS",0.171609668087124
+"951",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","STAD_EBV",0.370605383409065
+"952",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","MSI",0.15804067849124
+"953",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","STAD_MSI",-0.316892788106524
+"954",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","MSS_TP53neg",-0.220273333186259
+"955",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","High_cal",-0.0552460354668991
+"956",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","STAD_GS",-0.0621003588596346
+"957",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","Low_cal",0.0552460354668991
+"958",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","STAD_CIN",0.131037929881529
+"959",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","EMT",0.122985604572307
+"960",1927,"SANGER","GSK2578215A","GSK 2578215A,  GSK-2578215A","LRRK2","Other, kinases","GSK2578215A..GDSC2.1927.","MSS_TP53pos",-0.00180921608324894
+"961",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","EMT",-0.132982872006476
+"962",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","STAD_GS",-0.125412004316064
+"963",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","Low_cal",0.390073239469657
+"964",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","MSI",0.376317317051416
+"965",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","STAD_EBV",0.226704620138957
+"966",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","STAD_CIN",0.179093054341172
+"967",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","High_cal",-0.390073239469657
+"968",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","MSS_TP53pos",-0.173217061102596
+"969",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","MSS_TP53neg",0.0122280447637067
+"970",1928,"SANGER","I-BRD9","GSK602, GSK 602, GSK-602","BRD9","Chromatin other","I.BRD9..GDSC2.1928.","STAD_MSI",-0.234591623193689
+"971",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","MSI",-0.251156203060538
+"972",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","STAD_GS",-0.214293573251435
+"973",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","STAD_CIN",0.269813008542195
+"974",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","MSS_TP53pos",0.128250024386329
+"975",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","STAD_EBV",-0.115909172479422
+"976",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","MSS_TP53neg",0.205425694244544
+"977",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","STAD_MSI",-0.156360512420724
+"978",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","EMT",-0.224294499481344
+"979",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","High_cal",-0.0982780232566328
+"980",1930,"SANGER","Telomerase Inhibitor IX","MST-312, MST 312, MST312","Telomerase","Genome integrity","MST.312..GDSC2.1930.","Low_cal",0.0982780232566328
+"981",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","STAD_GS",-0.0166263261528237
+"982",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","STAD_EBV",0.0165295137409382
+"983",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","MSS_TP53pos",-0.125899511800777
+"984",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","MSS_TP53neg",0.0711868006803404
+"985",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","STAD_CIN",-0.106947163371108
+"986",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","High_cal",0.304011518807835
+"987",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","STAD_MSI",0.130773115740455
+"988",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","EMT",0.0602814160404564
+"989",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","MSI",0.0375755338632003
+"990",1932,"SANGER","NVP-ADW742","NVP ADW742, NVPADW742","IGF1R","IGF1R signaling","NVP.ADW742..GDSC2.1932.","Low_cal",-0.304011518807835
+"991",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","STAD_EBV",-0.096715321852322
+"992",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","STAD_MSI",0.0506144318326229
+"993",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","STAD_GS",0.494661848357429
+"994",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","STAD_CIN",-0.231146968836662
+"995",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","EMT",0.00652962311140179
+"996",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","High_cal",0.435808016702571
+"997",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","MSS_TP53neg",0.133796610507654
+"998",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","MSS_TP53pos",-0.0774189849868698
+"999",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","Low_cal",-0.435808016702571
+"1000",1933,"SANGER","P22077","P 22077, P-22077","USP7, USP47","Protein stability and degradation","P22077..GDSC2.1933.","MSI",-0.0591195149951265
+"1001",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","STAD_CIN",-0.206775049958083
+"1002",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","STAD_MSI",0.144997144367408
+"1003",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","STAD_GS",0.132724855471427
+"1004",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","MSS_TP53pos",-0.0396816921877255
+"1005",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","Low_cal",0.170177289651547
+"1006",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","MSS_TP53neg",0.238141884819014
+"1007",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","STAD_EBV",0.0706861545997651
+"1008",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","EMT",-0.207168294074016
+"1009",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","MSI",-0.0818849654364146
+"1010",1936,"SANGER","Savolitinib","AZD6094, Volitinib, AZD-6094, AZD 6094","MET","RTK signaling","savolitinib..GDSC2.1936.","High_cal",-0.170177289651547
+"1011",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","STAD_GS",0.374121443406525
+"1012",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","STAD_CIN",-0.0775740705466853
+"1013",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","EMT",-0.343983433923082
+"1014",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","Low_cal",-0.11266030124541
+"1015",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","High_cal",0.11266030124541
+"1016",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","STAD_MSI",-0.0771633531102543
+"1017",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","MSS_TP53pos",0.277197382849251
+"1018",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","MSI",-0.130717187707464
+"1019",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","MSS_TP53neg",0.0747887709983491
+"1020",1939,"SANGER","UMI-77","UMI 77, UMI-77","MCL1","Apoptosis regulation","UMI.77..GDSC2.1939.","STAD_EBV",-0.143874879944218
+"1021",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","EMT",-0.0261343001750261
+"1022",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","High_cal",0.230715041387693
+"1023",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","MSS_TP53neg",-0.173341732324094
+"1024",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","MSI",-0.0465924414189327
+"1025",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","STAD_MSI",0.0656465498087424
+"1026",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","Low_cal",-0.230715041387693
+"1027",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","MSS_TP53pos",0.199159963614957
+"1028",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","STAD_CIN",-0.204021347833762
+"1029",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","STAD_GS",0.240214604054147
+"1030",1940,"SANGER","WIKI4","WIKI-4, WIKI 4","TNKS1, TNKS2","WNT signaling","WIKI4..GDSC2.1940.","STAD_EBV",0.109376610720784
+"1031",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","MSI",-0.0987241948329829
+"1032",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","STAD_MSI",0.271094270329562
+"1033",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","High_cal",0.118862023462101
+"1034",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","EMT",-0.489881189572588
+"1035",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","STAD_EBV",-0.330343084071944
+"1036",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","STAD_GS",0.609231355829547
+"1037",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","MSS_TP53pos",0.582110258169129
+"1038",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","MSS_TP53neg",-0.228318347846312
+"1039",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","Low_cal",-0.118862023462101
+"1040",1941,"SANGER","Sepantronium bromide","YM155, YM-155, YM 155","BIRC5","Apoptosis regulation","YM.155..GDSC2.1941.","STAD_CIN",-0.40126813311753
+"1041",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","STAD_MSI",0.122630794671316
+"1042",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","STAD_GS",0.397704555003104
+"1043",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","MSI",0.512386387910583
+"1044",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","STAD_EBV",0.29559562897134
+"1045",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","STAD_CIN",-0.393025771643141
+"1046",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","High_cal",0.136388300128814
+"1047",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","MSS_TP53pos",0.0952335677258481
+"1048",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","MSS_TP53neg",-0.193931531097667
+"1049",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","Low_cal",-0.136388300128814
+"1050",1996,"SANGER","MIM1","MIM 1, MIM-1","MCL1","Apoptosis regulation","MIM.1..GDSC2.1996.","EMT",-0.408250498330757
+"1051",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","STAD_EBV",-0.218852724922706
+"1052",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","STAD_MSI",0.365139784595479
+"1053",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","MSS_TP53pos",-0.0427522857928319
+"1054",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","MSI",0.0364666239045844
+"1055",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","STAD_GS",0.301195959411912
+"1056",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","Low_cal",-0.566552358563995
+"1057",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","STAD_CIN",-0.375330236021567
+"1058",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","EMT",0.101837888215972
+"1059",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","MSS_TP53neg",-0.0551984923041764
+"1060",1997,"SANGER","WEHI-539","WEHI539, WEHI-539","BCL-XL","Apoptosis regulation","WEHI.539..GDSC2.1997.","High_cal",0.566552358563995
+"1061",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","STAD_MSI",0.458536309934689
+"1062",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","STAD_GS",0.216024189572129
+"1063",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","MSS_TP53pos",0.145166162648259
+"1064",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","STAD_CIN",-0.479894673319263
+"1065",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","Low_cal",0.119599575383976
+"1066",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","STAD_EBV",-0.0387435571462673
+"1067",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","MSS_TP53neg",-0.218895171995012
+"1068",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","EMT",0.0177687836124311
+"1069",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","MSI",0.031803787745397
+"1070",2040,"SANGER","Foretinib","GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR","RTK signaling","foretinib..GDSC2.2040.","High_cal",-0.119599575383976
+"1071",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","MSS_TP53neg",0.0331240867436432
+"1072",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","STAD_GS",-0.159492832994279
+"1073",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","EMT",-0.00808213024850771
+"1074",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","Low_cal",0.349254097953951
+"1075",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","MSS_TP53pos",0.244357881991053
+"1076",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","STAD_MSI",-0.200875428656441
+"1077",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","MSI",-0.408963255609007
+"1078",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","STAD_CIN",0.254564359138707
+"1079",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","STAD_EBV",-0.0220172609815513
+"1080",2044,"SANGER","Pyridostatin","","G-quadruplex stabiliser","DNA replication","Pyridostatin..GDSC2.2044.","High_cal",-0.349254097953951
+"1081",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","Low_cal",0.408750965816324
+"1082",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","MSI",0.226796754750114
+"1083",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","MSS_TP53neg",0.170857707599517
+"1084",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","STAD_GS",-0.240644840150597
+"1085",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","MSS_TP53pos",-0.365305025867841
+"1086",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","STAD_EBV",0.262462404220955
+"1087",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","EMT",0.120952357746775
+"1088",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","High_cal",-0.408750965816324
+"1089",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","STAD_CIN",0.103303615165672
+"1090",2046,"SANGER","MK-8776","SCH900776","CHEK1, CHEK2, CDK2","Cell cycle","SCH900776..GDSC2.2046.","STAD_MSI",-0.0930567386465451
+"1091",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","EMT",0.067129427750258
+"1092",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","High_cal",0.178269840069226
+"1093",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","MSI",-0.0647690555575764
+"1094",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","STAD_GS",-0.261745652305474
+"1095",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","MSS_TP53neg",-0.0698037564129188
+"1096",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","Low_cal",-0.178269840069226
+"1097",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","STAD_MSI",0.415387170702977
+"1098",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","STAD_CIN",-0.156547661780718
+"1099",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","MSS_TP53pos",0.0547077138199128
+"1100",2047,"SANGER","Ulixertinib","BVD-523, VRT752271","ERK1, ERK2","ERK MAPK signaling","BVD.523..GDSC2.2047.","STAD_EBV",-0.210089844341017
+"1101",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","STAD_GS",0.28528563260251
+"1102",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","Low_cal",-0.210344911734521
+"1103",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","MSS_TP53neg",0.122802923889009
+"1104",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","EMT",0.132574683692807
+"1105",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","STAD_EBV",-0.258612466860958
+"1106",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","STAD_CIN",0.251637031056429
+"1107",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","High_cal",0.210344911734521
+"1108",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","MSI",0.0109432625430882
+"1109",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","STAD_MSI",-0.347857195905263
+"1110",2048,"SANGER","Vinorelbine","vinorelbine tartrate, Navelbine, Exelbine","Microtubule destabiliser","Mitosis","vinorelbine..GDSC2.2048.","MSS_TP53pos",-0.182635773158182
+"1111",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","MSI",-0.231602767820957
+"1112",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","STAD_GS",-0.182089140313073
+"1113",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","STAD_CIN",0.0549984810455488
+"1114",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","STAD_MSI",0.265334806156129
+"1115",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","MSS_TP53neg",0.28476971626656
+"1116",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","High_cal",0.160717911696358
+"1117",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","MSS_TP53pos",-0.261591157063711
+"1118",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","STAD_EBV",-0.55791625618802
+"1119",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","EMT",0.316094297897706
+"1120",2096,"SANGER","VX-11e","VX11e, VX11e","ERK2","ERK MAPK signaling","VX.11e..GDSC2.2096.","Low_cal",-0.160717911696358
+"1121",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","MSI",-0.0569482036949192
+"1122",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","STAD_GS",0.268283725362281
+"1123",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","MSS_TP53neg",-0.10369197844356
+"1124",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","STAD_CIN",0.0699116912783031
+"1125",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","MSS_TP53pos",0.140978469632065
+"1126",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","STAD_MSI",-0.0882223218747838
+"1127",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","High_cal",0.129198742761224
+"1128",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","STAD_EBV",-0.353482210553438
+"1129",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","EMT",-0.0452245146010553
+"1130",2106,"SANGER","Uprosertib","GSK2141795, GSK2141795C, GSK-2141795","AKT1, AKT2, AKT3","PI3K/MTOR signaling","uprosertib..GDSC2.2106.","Low_cal",-0.129198742761224
+"1131",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","MSS_TP53neg",-0.0506698376072055
+"1132",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","STAD_CIN",-0.209731719858893
+"1133",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","MSI",0.0651681695073409
+"1134",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","STAD_MSI",0.35988334951807
+"1135",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","STAD_GS",0.118562639157185
+"1136",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","MSS_TP53pos",0.0455435072094033
+"1137",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","High_cal",0.525788518357985
+"1138",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","STAD_EBV",-0.448263345431944
+"1139",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","EMT",-0.078246789552694
+"1140",2109,"SANGER","AZ6102","","TNKS1, TNKS2","WNT signaling","AZ6102..GDSC2.2109.","Low_cal",-0.525788518357985
+"1141",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","MSS_TP53pos",-0.436634892967046
+"1142",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","MSS_TP53neg",0.470506151445724
+"1143",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","High_cal",-0.358028772544361
+"1144",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","STAD_CIN",0.181909335997663
+"1145",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","MSI",0.199813295020157
+"1146",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","STAD_EBV",0.166556185864198
+"1147",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","STAD_MSI",-0.055700422393354
+"1148",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","STAD_GS",-0.384634083396844
+"1149",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","Low_cal",0.358028772544361
+"1150",2111,"SANGER","VE821","VE 821, VE-821","ATR","Genome integrity","VE.821..GDSC2.2111.","EMT",-0.0667997609490176
