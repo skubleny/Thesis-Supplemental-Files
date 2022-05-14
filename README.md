@@ -1,5 +1,5 @@
 # Thesis-Supplemental-Files
-This repository accompanies the thesis titled "Strategies and advancements for personalized medicine in gastric cancer" written by Daniel Skubleny. 
+This repository accompanies the thesis titled "Strategies and Advancements for Personalized Medicine in Gastric Cancer" written by Daniel Skubleny. 
 
 Data tables and details regarding datasets used in this thesis are contained within the designated folder above. Only material that is referenced to appear in the online supplemental material is located here. For additional supplemental tables and figures please reference the supplement within the thesis document.
 
